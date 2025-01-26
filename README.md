@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository has been archived and is no longer maintained.
+
 # Solace subscriber console application example
 
 An example Solace subscriber application that was used in the demo during the session _Architecture and Use Cases for Event Mesh_ at SAP Inside Track Netherlands 2023.
